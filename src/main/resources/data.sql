@@ -1,0 +1,1 @@
+INSERT INTO users (id, username, name, age, balance) VALUES (4, 'user4', 'Bort', 20, 100);
